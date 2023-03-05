@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaheshYogi007
 - 👀 I’m interested in Lerning New Techology
-- 🌱 I’m currently learning at Navgujart Collage Of Computer Application
+- 🌱 I’m currently doing my bachlor in computer application at Navgujart Collage Of Computer Application
 
 
 <!---
